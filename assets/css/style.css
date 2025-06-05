@@ -24,7 +24,7 @@
 
 /* SECCION HERO */
 #hero {
-    background: linear-gradient(rgba(33,37,41, 0.7), rgba(33,37,41, 0.7)), url(https://cdn.pixabay.com/photo/2017/01/25/17/35/picture-2008484_1280.png);
+    background: linear-gradient(rgba(33,37,41, 0.7), rgba(33,37,41, 0.7)), url("https://cdn.pixabay.com/photo/2017/01/25/17/35/picture-2008484_1280.png");
     background-position: center;
     background-size: cover;
 }
