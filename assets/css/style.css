@@ -24,7 +24,7 @@
 
 /* SECCION HERO */
 #hero {
-    background: linear-gradient(rgba(33,37,41, 0.7), rgba(33,37,41, 0.7)), url(/src/img/hero.jpg);
+    background: linear-gradient(rgba(33,37,41, 0.7), rgba(33,37,41, 0.7)), url(https://cdn.pixabay.com/photo/2017/01/25/17/35/picture-2008484_1280.png);
     background-position: center;
     background-size: cover;
 }
@@ -100,14 +100,4 @@
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
-}
-
-
-/* PÁGINA COTIZADOR */
-
-#cotizador-encabezado{
-    background: linear-gradient(rgba(33,37,41, 0.7), rgba(33,37,41, 0.7)), url('https://reefairconditioning.com.au/wp-content/uploads/2021/03/Reef-Air-Conditioning-Services.jpg');
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
 }
